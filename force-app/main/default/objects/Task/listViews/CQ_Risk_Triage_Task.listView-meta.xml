@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ListView xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>CQ_Risk_Triage_Task</fullName>
+    <filterScope>Queue</filterScope>
+    <label>CQ Risk Triage</label>
+    <queue>CQ_Risk_Triage</queue>
+    <sharedTo>
+        <allInternalUsers></allInternalUsers>
+    </sharedTo>
+</ListView>
